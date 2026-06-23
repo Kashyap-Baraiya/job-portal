@@ -4,12 +4,6 @@ A full-featured Job Portal web application built using the MERN stack (MongoDB, 
 
 ---
 
-## 🔥 Live Demo
-Frontend: https://your-frontend-url.onrender.com  
-Backend: https://your-backend-url.onrender.com  
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
