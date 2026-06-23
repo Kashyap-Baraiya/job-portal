@@ -39,20 +39,12 @@ A full-featured Job Portal web application built using the MERN stack (MongoDB, 
 
 ---
 
-### 🏢 Company Features
+### 🏢 Recruiter Features
 - Company registration/login
 - Post new job listings
 - Update job details
 - Delete job posts
 - View applicants for each job
-
----
-
-### 👨‍💻 Admin Features (if included)
-- Manage users
-- Manage companies
-- Manage job posts
-- Dashboard analytics
 
 ---
 
@@ -67,22 +59,4 @@ A full-featured Job Portal web application built using the MERN stack (MongoDB, 
 - 📡 Axios-based API communication
 - ⚡ Responsive UI for all devices
 
----
 
-## 📁 Project Structure
-
-```bash
-job-portal/
-│
-├── frontend/        # React frontend
-│   ├── src/
-│   └── package.json
-│
-├── backend/         # Node + Express backend
-│   ├── src/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   └── package.json
-│
-├── README.md
