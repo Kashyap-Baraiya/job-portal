@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+
+.job:hover {
+    box-shadow: 1px 0px 11px 0px #808080e3;
+}
+
+.notice {
+    overflow: hidden;
+    background-color: #ececff;
+    color: #4848ff;
+}
+
+.notice p {
+    display: inline-block;
+    white-space: nowrap;
+    animation: scrollText 20s linear infinite;
+}
+
+@keyframes scrollText {
+    0% {
+        transform: translateX(100%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
